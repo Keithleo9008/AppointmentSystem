@@ -595,6 +595,10 @@ select{
   display: none;
 }
 
+#toast-container{
+    left: 1%;
+}
+
 /*  MEDIA QUERIES  */
 @media only screen and (max-width: 910px){
     #boxx{
@@ -644,5 +648,4 @@ select{
     #container-right{
         max-width: 300px;
     }
-    
 }
